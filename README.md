@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Riteshh82?label=Follow%20Me&style=social)](https://github.com/Riteshh82)
 [![Profile Views](https://komarev.com/ghpvc/?username=Riteshh82&color=brightgreen)](https://github.com/Riteshh82)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Riteshh82/)](https://www.linkedin.com/in/Riteshh82/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Imriteshxo?style=social)](https://twitter.com/Imriteshxo)
+[![X Follow](https://img.shields.io/twitter/follow/Imriteshxo?style=social&logo=x)](https://twitter.com/Imriteshxo)
 
 I'm a passionate **Computer Science** student, currently pursuing my **BTech**. I enjoy developing apps and websites, and I’m always looking to learn new things in tech. Welcome to my GitHub profile!
 
@@ -58,4 +58,4 @@ When I'm not coding, you can find me working out or planning my next trip with *
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Riteshh82)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Imriteshxo)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Imriteshxo)
