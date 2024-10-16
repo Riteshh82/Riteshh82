@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Ritesh**!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social)](https://github.com/your-username)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)
+[![GitHub followers](https://img.shields.io/github/followers/Riteshh82?label=Follow%20Me&style=social)](https://github.com/Riteshh82)
+[![Profile Views](https://komarev.com/ghpvc/?username=Riteshh82&color=brightgreen)](https://github.com/Riteshh82)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Riteshh82/)](https://www.linkedin.com/in/Riteshh82/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Imriteshxo?style=social)](https://twitter.com/Imriteshxo)
 
 I'm a passionate **Computer Science** student, currently pursuing my **BTech**. I enjoy developing apps and websites, and I’m always looking to learn new things in tech. Welcome to my GitHub profile!
 
@@ -45,9 +45,9 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 - 💡 Working on **CertsCracker**, an e-learning project using blockchain for universities in developing countries.
 
 ## 📫 How to reach me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- 🐦 Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)
+- 📧 Email: [Riteshky19@gmail.com](mailto:riteshky19@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Riteshh82](https://www.linkedin.com/in/Riteshh82/)
+- 🐦 Twitter: [twitter.com/Imriteshxo](https://twitter.com/Imriteshxo)
 
 ## ⚡ Fun Fact
 When I'm not coding, you can find me working out or planning my next trip with **Roamly**!
@@ -56,6 +56,6 @@ When I'm not coding, you can find me working out or planning my next trip with *
 
 ### Socials
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Riteshh82)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Imriteshxo)
