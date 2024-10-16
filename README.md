@@ -45,9 +45,9 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 - 💡 Working on **CertsCracker**, an e-learning project using blockchain for universities in developing countries.
 
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Riteshky19@hmail.com)](mailto:Riteshky19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/Riteshh82/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/Imriteshxo)](https://x.com/Imriteshxo)
+- [![](https://img.shields.io/badge/-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Riteshky19@gmail.com) [Riteshky19@gmail.com](mailto:Riteshky19@gmail.com)
+- [![](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/) LinkedIn: [linkedin.com/in/Riteshh82](https://www.linkedin.com/in/Riteshh82/)
+- [![](https://img.shields.io/badge/-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/Imriteshxo) X: [twitter.com/Imriteshxo](https://twitter.com/Imriteshxo)
 
 ## ⚡ Fun Fact
 When I'm not coding, you can find me working out or planning my next trip with **Roamly**!
@@ -58,4 +58,4 @@ When I'm not coding, you can find me working out or planning my next trip with *
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Riteshh82)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/)
-[![](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Imriteshxo)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/Imriteshxo)](https://x.com/Imriteshxo)
