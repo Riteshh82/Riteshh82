@@ -16,7 +16,6 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 - 🧑‍💻 Advanced **React.js** and **Tailwind CSS** for frontend development.
 - 📱 **SwiftUI** for iOS app development.
 - 🔗 **Blockchain** and **smart contracts** for decentralized applications.
-- 🔍 Improving **Image Processing** skills through my college subjects.
 
 ## 💻 Tech Stack
 
