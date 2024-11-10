@@ -19,6 +19,9 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 
 ## 💻 Tech Stack
 
+
+<img alt="GIF" align="right" height="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzdjQ3YW8xZHA1Y3ZiNW9wb3YwaHA5dDZpbnVpd3BiMDBjcXAyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
