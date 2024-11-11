@@ -7,10 +7,6 @@
 
 I'm a passionate **Computer Science** student, currently pursuing my **BTech**. I enjoy developing apps and websites, and I’m always looking to learn new things in tech. Welcome to my GitHub profile!
 
-## 🔭 What I'm working on
-- 🏔️ Building **Roamly**, an app that helps solo travelers find travel buddies.
-- 💵 Developing **ExpenseTracker** using **SwiftUI** for better expense management.
-- ⚡ Participating in the **Smart India Hackathon** with a project that uses blockchain technology.
 
 ## 🌱 What I'm learning
 - 🧑‍💻 Advanced **React.js** and **Tailwind CSS** for frontend development.
@@ -41,10 +37,6 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-007ACC?style=flat-square&logo=framer&logoColor=white)
 
-## 🏆 Achievements
-- 🎉 Top 45 in **Vadodara Hackathon 5.0**.
-- 🏅 Selected for the **Smart India Hackathon (SIH)**.
-- 💡 Working on **CertsCracker**, an e-learning project using blockchain for universities in developing countries.
 
 ## 📫 How to reach me
 - [![](https://img.shields.io/badge/-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Riteshky19@gmail.com) [Riteshky19@gmail.com](mailto:Riteshky19@gmail.com)
