@@ -37,19 +37,5 @@ I'm a passionate **Computer Science** student, currently pursuing my **BTech**. 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-007ACC?style=flat-square&logo=framer&logoColor=white)
 
-
-## 📫 How to reach me
-- [![](https://img.shields.io/badge/-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Riteshky19@gmail.com) [Riteshky19@gmail.com](mailto:Riteshky19@gmail.com)
-- [![](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/) LinkedIn: [linkedin.com/in/Riteshh82](https://www.linkedin.com/in/Riteshh82/)
-- [![](https://img.shields.io/badge/-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/Imriteshxo) X: [twitter.com/Imriteshxo](https://twitter.com/Imriteshxo)
-
 ## ⚡ Fun Fact
 When I'm not coding, you can find me working out or planning my next trip with **Roamly**!
-
----
-
-### Socials
-
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Riteshh82)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Riteshh82/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/Imriteshxo)](https://x.com/Imriteshxo)
